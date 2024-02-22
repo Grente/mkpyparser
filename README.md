@@ -12,11 +12,15 @@ python版本: python2
 
 
 
+
 # 例子
 测试导表.xls  
 ![image](https://github.com/Grente/mkpyparser/assets/25632635/9caafd27-6e06-4415-bb4d-895c4bc2f8a0)
 
 ![image](https://github.com/Grente/mkpyparser/assets/25632635/256c3188-acbf-4219-acf4-9cd01f02ef67)
+
+**例子详情执行：python test.py**
+
 
 # 基本调用
 
@@ -137,5 +141,6 @@ TEST_DATA2 = {
 #自动模板导出结束
 
 ```
+
 
 
