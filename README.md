@@ -4,6 +4,7 @@ mkpyparser是基于xlrd模块的python导表工具、xls模板化转换python数
 
 
 # 环境
+运行环境：window
 python版本: python2
 需要安装模块: xlrd
 
