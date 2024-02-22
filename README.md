@@ -6,9 +6,11 @@ mkpyparser是基于xlrd模块的python导表工具、xls模板化转换python数
 templatemake是封装成模板，支持批量导出文件
 
 # 环境
-运行环境：window
-python版本: python2
-需要安装模块: xlrd
+运行环境：window  
+python版本: python2  
+需要安装模块: xlrd  
+
+
 
 # 例子
 测试导表.xls  
