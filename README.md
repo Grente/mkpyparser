@@ -2,8 +2,11 @@
 mkpyparser是基于xlrd模块的python导表工具、xls模板化转换python数据结构、用于游戏开发导表  
 无需自己手动组合字符，根据模板生成数据结构
 
+核心是autoparser.py 负责表格数据和模板代码的编译以及生成导出数据的代码  
+templatemake是封装成模板，支持批量导出文件
 
 # 环境
+运行环境：window
 python版本: python2
 需要安装模块: xlrd
 
